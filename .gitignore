@@ -1,0 +1,7 @@
+.DS_Store
+
+# local tooling
+.env
+
+# backups created by scripts/install.sh (only if user runs it inside repo paths)
+*.bak.*

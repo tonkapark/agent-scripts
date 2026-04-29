@@ -21,7 +21,7 @@ Skills follow the open [Agent Skills spec](https://agentskills.io/specification)
 Run from the repo root:
 
 ```bash
-./scripts/install.sh
+./scripts/symlink.sh
 ```
 
 This will:
